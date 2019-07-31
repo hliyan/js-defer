@@ -1,0 +1,22 @@
+{
+  "name": "js-defer",
+  "version": "1.0.0",
+  "description": "Internally uses the postMessage API to run functions as a separate JavaScript event.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hliyan/js-defer.git"
+  },
+  "author": "\"Hasitha N. Liyanage\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hliyan/js-defer/issues"
+  },
+  "homepage": "https://github.com/hliyan/js-defer#readme"
+}
