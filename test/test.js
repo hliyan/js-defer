@@ -1,7 +1,7 @@
 const jsDefer = require('../index');
 const {init, defer} = jsDefer;
 
-init(window);
+init();
 defer(() => {
   console.log('Deferred at load');
 });
